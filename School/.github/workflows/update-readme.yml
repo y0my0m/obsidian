@@ -1,0 +1,33 @@
+name: Update subject lists
+
+on:
+  push:
+    paths:
+      - 'Main/**/*.md'
+      - 'scripts/update_readme.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Regenerate subject lists
+        run: python scripts/update_readme.py
+      - name: Commit updated README
+        run: |
+          if git diff --quiet -- Main/README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add Main/README.md
+          git commit -m 'docs: update subject lists'
+          git push

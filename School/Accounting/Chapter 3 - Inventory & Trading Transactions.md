@@ -54,38 +54,52 @@ Instead of recording inventory movements directly into a single asset account du
 
 ### T-Account Postings
 
-| \multicolumn{6}{c}{**Cash Account**} |  |  |  |  |  |
+**Cash Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | July 1 | Capital | $3,800 | July 3 | Purchases | $480 |
 | July 10 | Sales | $172 | July 25 | J. Gill | $960 |
 | July 31 | A. Prince | $292 |  |  |  |
 
-| \multicolumn{6}{c}{**Purchases Account**} |  |  |  |  |  |
+**Purchases Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | July 3 | Cash | $480 |  |  |  |
 | July 7 | J. Gill | $1,200 |  |  |  |
 | July 18 | F. Genesis | $1,460 |  |  |  |
 
-| \multicolumn{6}{c}{**Sales Account**} |  |  |  |  |  |
+**Sales Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | July 10 | Cash | $172 |
 |  |  |  | July 24 | A. Prince | $292 |
 
-| \multicolumn{6}{c}{**J. Gill (Trade Payable) Account**} |  |  |  |  |  |
+**J. Gill (Trade Payable) Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | July 14 | Returns Outwards | $240 | July 7 | Purchases | $1,200 |
 | July 25 | Cash | $960 |  |  |  |
 
-| \multicolumn{6}{c}{**F. Genesis (Trade Payable) Account**} |  |  |  |  |  |
+**F. Genesis (Trade Payable) Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | July 21 | Returns Outwards | $104 | July 18 | Purchases | $1,460 |
 
-| \multicolumn{6}{c}{**Returns Outwards Account**} |  |  |  |  |  |
+**Returns Outwards Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | July 14 | J. Gill | $240 |
 |  |  |  | July 21 | F. Genesis | $104 |
 
-| \multicolumn{6}{c}{**A. Prince (Trade Receivable) Account**} |  |  |  |  |  |
+**A. Prince (Trade Receivable) Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | July 24 | Sales | $292 | July 31 | Cash | $292 |
 

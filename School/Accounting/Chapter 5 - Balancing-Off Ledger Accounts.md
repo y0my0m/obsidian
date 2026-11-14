@@ -53,7 +53,9 @@ Consider a Cash account at May 31:
 
 ### Balanced T-Account
 
-| \multicolumn{6}{c}{**Cash Account**} |  |  |  |  |  |
+**Cash Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | May 1 | Capital | $500 | May 3 | Purchases | $100 |
 | May 10 | Sales | $210 | May 22 | D. Small | $200 |
@@ -68,7 +70,7 @@ Consider a Cash account at May 31:
 Modern computer systems often use the three-column running balance format instead of T-accounts:
 
 | Date | Details | Folio | Debit $$\$$ | Credit $$\$$ | Balance $$\$$ | Dr/Cr |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | --- | --- | --- |
 | May 1 | Capital | CB1 | 500 | | 500 | Dr |
 | May 3 | Purchases | GL3 | | 100 | 400 | Dr |
 | May 10 | Sales | GL5 | 210 | | 610 | Dr |

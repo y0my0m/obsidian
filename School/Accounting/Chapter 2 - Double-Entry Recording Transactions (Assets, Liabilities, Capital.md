@@ -17,7 +17,9 @@ Every business transaction consists of two fundamental elements:
 
 In 1494, Luca Pacioli codified the double-entry bookkeeping framework. A ledger account is formatted as a **T-Account**:
 
-| \multicolumn{2}{c}{**Account Name**} |  |
+**Account Name**
+
+| Debit (left) | Credit (right) |
 | --- | --- |
 | **Debit (Dr)** | **Credit (Cr)** |
 | (Left Hand Side) | (Right Hand Side) |
@@ -68,28 +70,40 @@ When recording any transaction:
 
 ### T-Account Postings
 
-| \multicolumn{6}{c}{**Cash Account**} |  |  |  |  |  |
+**Cash Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | June 1 | Capital | $12,000 | June 2 | Bank | $11,700 |
 
-| \multicolumn{6}{c}{**Bank Account**} |  |  |  |  |  |
+**Bank Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | June 2 | Cash | $11,700 | June 8 | Motor Van | $5,200 |
 |  |  |  | June 12 | Dream Ltd | $1,000 |
 
-| \multicolumn{6}{c}{**Capital Account**} |  |  |  |  |  |
+**Capital Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | June 1 | Cash | $12,000 |
 
-| \multicolumn{6}{c}{**Office Furniture Account**} |  |  |  |  |  |
+**Office Furniture Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | June 5 | Dream Ltd | $1,900 |  |  |  |
 
-| \multicolumn{6}{c}{**Dream Ltd (Trade Payable) Account**} |  |  |  |  |  |
+**Dream Ltd (Trade Payable) Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | June 12 | Bank | $1,000 | June 5 | Office Furniture | $1,900 |
 
-| \multicolumn{6}{c}{**Motor Van Account**} |  |  |  |  |  |
+**Motor Van Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | June 8 | Bank | $5,200 |  |  |  |
 

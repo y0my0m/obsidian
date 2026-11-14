@@ -39,7 +39,9 @@ $$\text{Net Profit} = \text{Gross Profit} + \text{Other Income} - \text{Total Op
 
 ## 7.4 Vertical Presentation Format
 
-| \multicolumn{4}{c}{**Income Statement for the year ended 31 December 20X9**} |  |  |  |  |
+**Income Statement for the year ended 31 December 20X9**
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 | --- | --- | --- | --- | --- |
 |  | \boldsymbol{$} | \boldsymbol{$} | \boldsymbol{$} |  |
 | Sales Revenue |  |  | 120,000 |  |

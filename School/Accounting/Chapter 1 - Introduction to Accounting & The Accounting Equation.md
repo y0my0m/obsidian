@@ -12,7 +12,7 @@ Financial accounting is often described as the **language of business**. It serv
 ### Bookkeeping vs. Accounting
 
 | Feature | Bookkeeping | Accounting |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | **Definition** | Detailed, routine recording of all financial transactions of a business. | Summarizing, analyzing, interpreting, and communicating financial data. |
 | **Primary Objective** | Maintain systematic and mathematically accurate financial records. | Prepare financial statements, evaluate business performance, and guide decisions. |
 | **Output** | Books of prime entry, ledgers, and the unadjusted trial balance. | Income statements, Statements of Financial Position, and financial analysis reports. |
@@ -74,7 +74,7 @@ $$\text{Assets} = \text{Capital} + \text{Liabilities}$$
 ## 1.6 Impact of Transactions on the Accounting Equation
 
 | Transaction # | Transaction Description | Effect on Assets | Effect on Liabilities | Effect on Capital | Net Accounting Equation Impact |
-| :---: | :--- | :---: | :---: | :---: | :--- |
+| --- | --- | --- | --- | --- | --- |
 | **1** | Owner starts business with $\$20,000$ cash paid into bank. | $+\$20,000$ (Bank) | $\$0$ | $+\$20,000$ (Capital) | $\text{Assets } $\$20,000$ = \text{Capital } $\$20,000$ + \text{Liabilities } (\$0)$ |
 | **2** | Purchased office premises for $\$15,000$ paying by cheque. | $+\$15,000$ (Premises)<br>$-\$15,000$ (Bank) | $\$0$ | $\$0$ | $\text{Assets } $\$20,000$ = \text{Capital } $\$20,000$ + \text{Liabilities } (\$0)$ |
 | **3** | Purchased goods for resale (inventory) for $\$3,000$ on credit. | $+\$3,000$ (Inventory) | $+\$3,000$ (Trade Payables) | $\$0$ | $\text{Assets } $\$23,000$ = \text{Capital } $\$20,000$ + \text{Liabilities } (\$3,000)$ |

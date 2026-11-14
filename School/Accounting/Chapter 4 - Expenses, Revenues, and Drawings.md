@@ -70,29 +70,41 @@ When the owner takes cash or goods from the business for personal use:
 
 ### T-Account Ledger Postings
 
-| \multicolumn{6}{c}{**Bank Account**} |  |  |  |  |  |
+**Bank Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | Aug 1 | Capital | $31,000 | Aug 4 | Rent | $1,200 |
 |  |  |  | Aug 10 | Rates | $450 |
 
-| \multicolumn{6}{c}{**Cash Account**} |  |  |  |  |  |
+**Cash Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | Aug 1 | Capital | $4,000 | Aug 20 | Wages | $800 |
 | Aug 15 | Commission | $300 | Aug 28 | Drawings | $350 |
 
-| \multicolumn{6}{c}{**Rent Account**} |  |  |  |  |  |
+**Rent Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | Aug 4 | Bank | $1,200 |  |  |  |
 
-| \multicolumn{6}{c}{**Commission Received Account**} |  |  |  |  |  |
+**Commission Received Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | Aug 15 | Cash | $300 |
 
-| \multicolumn{6}{c}{**Wages Account**} |  |  |  |  |  |
+**Wages Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | Aug 20 | Cash | $800 |  |  |  |
 
-| \multicolumn{6}{c}{**Drawings Account**} |  |  |  |  |  |
+**Drawings Account**
+
+| Date | Details | Amount | Date | Details | Amount |
 | --- | --- | --- | --- | --- | --- |
 | Aug 28 | Cash | $350 |  |  |  |
 

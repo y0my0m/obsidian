@@ -44,7 +44,9 @@ $$\text{Capital Employed} = \text{Opening Capital} + \text{Net Profit} - \text{D
 
 ## 8.4 Standard Vertical Presentation Format
 
-| \multicolumn{4}{c}{**Statement of Financial Position as at 31 December 20X9**} |  |  |  |  |
+**Statement of Financial Position as at 31 December 20X9**
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
 | --- | --- | --- | --- | --- |
 |  | \boldsymbol{$} | \boldsymbol{$} | \boldsymbol{$} |  |
 | **Non-Current Assets** |  |  |  |  |

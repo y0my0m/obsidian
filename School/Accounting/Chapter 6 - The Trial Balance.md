@@ -65,7 +65,9 @@ Even when total debits equal total credits, the books may still contain errors. 
 
 ### Trial Balance Format
 
-| \multicolumn{3}{c}{**Trial Balance as at 31 May 2020**} |  |  |
+**Trial Balance as at 31 May 2020**
+
+| Account | Debit | Credit |
 | --- | --- | --- |
 | **Account Title** | **Debit (Dr) $** | **Credit (Cr) $** |
 | Purchases | 994 |  |

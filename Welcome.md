@@ -1,8 +1,7 @@
-This is your new *vault*.
+# 👋 Welcome
 
-Make a note of something, [[create a link]], or try [the Importer](obsidian://show-plugin?id=obsidian-importer)!
+## 📚 Study notes
 
-When you're ready, delete this note and make the vault your own.swswswswsw
+- [[School/Accounting/Accounting - Start Here|🧾 Accounting — Start Here]]
 
-
-676767π
+Use the start page to navigate the accounting chapters.

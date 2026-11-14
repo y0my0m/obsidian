@@ -89,16 +89,14 @@ $$\text{Assets} = \text{Capital} + \text{Liabilities}$$
 
 A **Statement of Financial Position** shows the assets, liabilities, and capital of a business at a specific point in time.
 
-$$\begin{array}{l|r||l|r}
-\hline
-\textbf{Assets} & \boldsymbol{\$} & \textbf{Capital \& Liabilities} & \boldsymbol{\$} \\ \hline
-\text{Premises} & 15,000 & \text{Capital} & 25,000 \\
-\text{Inventory} & 2,000 & \text{Liabilities:} & \\
-\text{Trade Receivables} & 500 & \text{Trade Payables} & 1,800 \\
-\text{Cash at Bank} & 8,800 & & \\
-\text{Cash in Hand} & 500 & & \\ \hline
-\textbf{Total Assets} & \mathbf{26,800} & \textbf{Total Capital \& Liabilities} & \mathbf{26,800} \\ \hline
-\end{array}$$
+| **Assets** | \boldsymbol{$} | \textbf{Capital \ | Liabilities} | \boldsymbol{$} |
+| --- | --- | --- | --- | --- |
+| Premises | 15,000 | Capital | 25,000 |  |
+| Inventory | 2,000 | Liabilities: |  |  |
+| Trade Receivables | 500 | Trade Payables | 1,800 |  |
+| Cash at Bank | 8,800 |  |  |  |
+| Cash in Hand | 500 |  |  |  |
+| **Total Assets** | **26,800** | \textbf{Total Capital \ | Liabilities} | **26,800** |
 
 ---
 

@@ -28,15 +28,13 @@ $$\sum \text{Debit Balances} = \sum \text{Credit Balances}$$
 
 To extract a trial balance correctly, recall the **PEARLS / PEAR vs CLIP** mnemonic:
 
-$$\begin{array}{|l|l|}
-\hline
-\textbf{DEBIT (Dr) Column Balances} & \textbf{CREDIT (Cr) Column Balances} \\ \hline
-\text{\textbf{P}urchases} & \text{\textbf{C}apital} \\
-\text{\textbf{E}xpenses} & \text{\textbf{L}iabilities (Trade Payables, Loans)} \\
-\text{\textbf{A}ssets (Premises, Van, Cash, Bank)} & \text{\textbf{I}ncome / Revenues (Sales, Rent Rec.)} \\
-\text{\textbf{R}eturns Inwards (Sales Returns)} & \text{\textbf{P}urchases Returns (Returns Outwards)} \\
-\text{\textbf{S}et-up Drawings} & \\ \hline
-\end{array}$$
+| **DEBIT (Dr) Column Balances** | **CREDIT (Cr) Column Balances** |
+| --- | --- |
+| **P**urchases | **C**apital |
+| **E**xpenses | **L**iabilities (Trade Payables, Loans) |
+| **A**ssets (Premises, Van, Cash, Bank) | **I**ncome / Revenues (Sales, Rent Rec.) |
+| **R**eturns Inwards (Sales Returns) | **P**urchases Returns (Returns Outwards) |
+| **S**et-up Drawings |  |
 
 ---
 
@@ -67,19 +65,18 @@ Even when total debits equal total credits, the books may still contain errors. 
 
 ### Trial Balance Format
 
-$$\begin{array}{l|r|r}
-\multicolumn{3}{c}{\textbf{Trial Balance as at 31 May 2020}} \\ \hline
-\textbf{Account Title} & \textbf{Debit (Dr) \$} & \textbf{Credit (Cr) \$} \\ \hline
-\text{Purchases} & 994 & \\
-\text{Sales} & & 490 \\
-\text{Returns Outwards} & & 15 \\
-\text{Returns Inwards} & 1 & \\
-\text{Trade Payables (A. Lyon)} & & 2 \\
-\text{Trade Receivables (M. Spencer)} & 29 & \\
-\text{Cash at Bank} & 90 & \\
-\text{Capital} & & 607 \\ \hline
-\textbf{Totals} & \mathbf{1,114} & \mathbf{1,114} \\ \hline\hline
-\end{array}$$
+| \multicolumn{3}{c}{**Trial Balance as at 31 May 2020**} |  |  |
+| --- | --- | --- |
+| **Account Title** | **Debit (Dr) $** | **Credit (Cr) $** |
+| Purchases | 994 |  |
+| Sales |  | 490 |
+| Returns Outwards |  | 15 |
+| Returns Inwards | 1 |  |
+| Trade Payables (A. Lyon) |  | 2 |
+| Trade Receivables (M. Spencer) | 29 |  |
+| Cash at Bank | 90 |  |
+| Capital |  | 607 |
+| **Totals** | **1,114** | **1,114** |
 
 ---
 

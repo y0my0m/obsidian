@@ -17,21 +17,18 @@ Every business transaction consists of two fundamental elements:
 
 In 1494, Luca Pacioli codified the double-entry bookkeeping framework. A ledger account is formatted as a **T-Account**:
 
-$$\begin{array}{c|c}
-\multicolumn{2}{c}{\textbf{Account Name}} \\ \hline
-\textbf{Debit (Dr)} & \textbf{Credit (Cr)} \\
-\text{(Left Hand Side)} & \text{(Right Hand Side)}
-\end{array}$$
+| \multicolumn{2}{c}{**Account Name**} |  |
+| --- | --- |
+| **Debit (Dr)** | **Credit (Cr)** |
+| (Left Hand Side) | (Right Hand Side) |
 
 ### Core Rules for Assets, Liabilities, and Capital
 
-$$\begin{array}{|l|c|c|}
-\hline
-\textbf{Account Type} & \textbf{To Record an INCREASE (+)} & \textbf{To Record a DECREASE (-)} \\ \hline
-\textbf{Asset Account} & \text{DEBIT (Dr)} & \text{CREDIT (Cr)} \\ \hline
-\textbf{Liability Account} & \text{CREDIT (Cr)} & \text{DEBIT (Dr)} \\ \hline
-\textbf{Capital Account} & \text{CREDIT (Cr)} & \text{DEBIT (Dr)} \\ \hline
-\end{array}$$
+| **Account Type** | **To Record an INCREASE (+)** | **To Record a DECREASE (-)** |
+| --- | --- | --- |
+| **Asset Account** | DEBIT (Dr) | CREDIT (Cr) |
+| **Liability Account** | CREDIT (Cr) | DEBIT (Dr) |
+| **Capital Account** | CREDIT (Cr) | DEBIT (Dr) |
 
 ### Form of Settlement Focus Rule
 When recording any transaction:
@@ -71,36 +68,30 @@ When recording any transaction:
 
 ### T-Account Postings
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Cash Account}} \\ \hline
-\text{June 1} & \text{Capital} & \$12,000 & \text{June 2} & \text{Bank} & \$11,700
-\end{array}$$
+| \multicolumn{6}{c}{**Cash Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| June 1 | Capital | $12,000 | June 2 | Bank | $11,700 |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Bank Account}} \\ \hline
-\text{June 2} & \text{Cash} & \$11,700 & \text{June 8} & \text{Motor Van} & \$5,200 \\
-& & & \text{June 12} & \text{Dream Ltd} & \$1,000
-\end{array}$$
+| \multicolumn{6}{c}{**Bank Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| June 2 | Cash | $11,700 | June 8 | Motor Van | $5,200 |
+|  |  |  | June 12 | Dream Ltd | $1,000 |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Capital Account}} \\ \hline
-& & & \text{June 1} & \text{Cash} & \$12,000
-\end{array}$$
+| \multicolumn{6}{c}{**Capital Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | June 1 | Cash | $12,000 |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Office Furniture Account}} \\ \hline
-\text{June 5} & \text{Dream Ltd} & \$1,900 & & &
-\end{array}$$
+| \multicolumn{6}{c}{**Office Furniture Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| June 5 | Dream Ltd | $1,900 |  |  |  |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Dream Ltd (Trade Payable) Account}} \\ \hline
-\text{June 12} & \text{Bank} & \$1,000 & \text{June 5} & \text{Office Furniture} & \$1,900
-\end{array}$$
+| \multicolumn{6}{c}{**Dream Ltd (Trade Payable) Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| June 12 | Bank | $1,000 | June 5 | Office Furniture | $1,900 |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Motor Van Account}} \\ \hline
-\text{June 8} & \text{Bank} & \$5,200 & & &
-\end{array}$$
+| \multicolumn{6}{c}{**Motor Van Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| June 8 | Bank | $5,200 |  |  |  |
 
 ---
 

@@ -44,32 +44,31 @@ $$\text{Capital Employed} = \text{Opening Capital} + \text{Net Profit} - \text{D
 
 ## 8.4 Standard Vertical Presentation Format
 
-$$\begin{array}{l|rr|r}
-\multicolumn{4}{c}{\textbf{Statement of Financial Position as at 31 December 20X9}} \\ \hline
-& \boldsymbol{\$} & \boldsymbol{\$} & \boldsymbol{\$} \\ \hline
-\textbf{Non-Current Assets} & & & \\
-\text{Land \& Buildings} & & & 50,000 \\
-\text{Fixtures \& Fittings} & & & 8,000 \\ \hline
-& & & \mathbf{58,000} \\
-\textbf{Current Assets} & & & \\
-\text{Inventory} & 12,000 & & \\
-\text{Trade Receivables} & 6,800 & & \\
-\text{Cash at Bank} & 15,100 & & \\
-\text{Cash in Hand} & 200 & 34,100 & \\ \hline
-\text{Less: Current Liabilities} & & & \\
-\quad \text{Trade Payables} & & (9,100) & \\ \hline
-\textbf{Net Current Assets (Working Capital)} & & & \mathbf{25,000} \\ \hline
-\textbf{Total Assets Less Current Liabilities} & & & \mathbf{83,000} \\
-\text{Less: Non-Current Liabilities} & & & \\
-\quad \text{Bank Loan (5-year)} & & & (10,000) \\ \hline
-\textbf{NET ASSETS} & & & \mathbf{73,000} \\ \hline\hline
-\textbf{CAPITAL} & & & \\
-\text{Opening Capital} & & 60,000 & \\
-\text{Add: Net Profit for the year} & & 20,500 & \\ \hline
-& & 80,500 & \\
-\text{Less: Drawings} & & (7,500) & \\ \hline
-\textbf{TOTAL CAPITAL} & & & \mathbf{73,000} \\ \hline\hline
-\end{array}$$
+| \multicolumn{4}{c}{**Statement of Financial Position as at 31 December 20X9**} |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | \boldsymbol{$} | \boldsymbol{$} | \boldsymbol{$} |  |
+| **Non-Current Assets** |  |  |  |  |
+| \text{Land \ | Buildings} |  |  | 50,000 |
+| \text{Fixtures \ | Fittings} |  |  | 8,000 |
+|  |  |  | **58,000** |  |
+| **Current Assets** |  |  |  |  |
+| Inventory | 12,000 |  |  |  |
+| Trade Receivables | 6,800 |  |  |  |
+| Cash at Bank | 15,100 |  |  |  |
+| Cash in Hand | 200 | 34,100 |  |  |
+| Less: Current Liabilities |  |  |  |  |
+| Trade Payables |  | (9,100) |  |  |
+| **Net Current Assets (Working Capital)** |  |  | **25,000** |  |
+| **Total Assets Less Current Liabilities** |  |  | **83,000** |  |
+| Less: Non-Current Liabilities |  |  |  |  |
+| Bank Loan (5-year) |  |  | (10,000) |  |
+| **NET ASSETS** |  |  | **73,000** |  |
+| **CAPITAL** |  |  |  |  |
+| Opening Capital |  | 60,000 |  |  |
+| Add: Net Profit for the year |  | 20,500 |  |  |
+|  |  | 80,500 |  |  |
+| Less: Drawings |  | (7,500) |  |  |
+| **TOTAL CAPITAL** |  |  | **73,000** |  |
 
 ---
 

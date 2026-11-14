@@ -9,12 +9,10 @@
 
 Transportation costs must be correctly classified:
 
-$$\begin{array}{|l|l|l|}
-\hline
-\textbf{Freight / Carriage Item} & \textbf{Accounting Treatment} & \textbf{Impact on Financial Statements} \\ \hline
-\textbf{Carriage Inwards} & \text{Added to Purchases in Trading Section} & \text{Increases COGS } \implies \text{Reduces Gross Profit} \\ \hline
-\textbf{Carriage Outwards} & \text{Operating Expense in P\&L Section} & \text{Reduces Net Profit (No effect on Gross Profit)} \\ \hline
-\end{array}$$
+| **Freight / Carriage Item** | **Accounting Treatment** | **Impact on Financial Statements** |  |
+| --- | --- | --- | --- |
+| **Carriage Inwards** | Added to Purchases in Trading Section | Increases COGS  ⇒ Reduces Gross Profit |  |
+| **Carriage Outwards** | \text{Operating Expense in P\ | L Section} | Reduces Net Profit (No effect on Gross Profit) |
 
 ---
 
@@ -38,26 +36,24 @@ This removes the item from Purchases in the Trading Account so cost of sales is 
 
 ### Trial Balance of T. Trader at 31 December 20X9:
 
-$$\begin{array}{l|r|r}
-\hline
-\textbf{Account Title} & \textbf{Debit (Dr) \$} & \textbf{Credit (Cr) \$} \\ \hline
-\text{Sales Revenue} & & 210,000 \\
-\text{Purchases} & 115,000 & \\
-\text{Returns Inwards} & 3,000 & \\
-\text{Returns Outwards} & & 2,500 \\
-\text{Carriage Inwards} & 1,800 & \\
-\text{Carriage Outwards} & 2,400 & \\
-\text{Inventory (1 Jan 20X9)} & 14,000 & \\
-\text{Rent \& Rates} & 8,500 & \\
-\text{Salaries \& Wages} & 24,000 & \\
-\text{Fixtures \& Fittings} & 18,000 & \\
-\text{Trade Receivables} & 22,000 & \\
-\text{Trade Payables} & & 16,000 \\
-\text{Cash at Bank} & 9,500 & \\
-\text{Drawings} & 6,000 & \\
-\text{Capital (1 Jan 20X9)} & & 15,700 \\ \hline
-\textbf{Totals} & \mathbf{224,200} & \mathbf{224,200} \\ \hline\hline
-\end{array}$$
+| **Account Title** | **Debit (Dr) $** | **Credit (Cr) $** |  |
+| --- | --- | --- | --- |
+| Sales Revenue |  | 210,000 |  |
+| Purchases | 115,000 |  |  |
+| Returns Inwards | 3,000 |  |  |
+| Returns Outwards |  | 2,500 |  |
+| Carriage Inwards | 1,800 |  |  |
+| Carriage Outwards | 2,400 |  |  |
+| Inventory (1 Jan 20X9) | 14,000 |  |  |
+| \text{Rent \ | Rates} | 8,500 |  |
+| \text{Salaries \ | Wages} | 24,000 |  |
+| \text{Fixtures \ | Fittings} | 18,000 |  |
+| Trade Receivables | 22,000 |  |  |
+| Trade Payables |  | 16,000 |  |
+| Cash at Bank | 9,500 |  |  |
+| Drawings | 6,000 |  |  |
+| Capital (1 Jan 20X9) |  | 15,700 |  |
+| **Totals** | **224,200** | **224,200** |  |
 
 **Additional Information at 31 December 20X9**:
 1. Closing inventory valued at cost is $\$16,500$.
@@ -69,53 +65,49 @@ $$\begin{array}{l|r|r}
 
 ### T. Trader — Income Statement for the year ended 31 December 20X9
 
-$$\begin{array}{l|rr|r}
-\hline
-& \boldsymbol{\$} & \boldsymbol{\$} & \boldsymbol{\$} \\ \hline
-\text{Sales Revenue} & & & 210,000 \\
-\text{Less: Returns Inwards} & & & (3,000) \\ \hline
-\textbf{Net Sales Revenue} & & & \mathbf{207,000} \\ \hline
-\text{Less: Cost of Goods Sold} & & & \\
-\quad \text{Opening Inventory (1 Jan 20X9)} & & 14,000 & \\
-\quad \text{Purchases} & 115,000 & & \\
-\quad \text{Less: Goods for Own Use} & (800) & & \\
-\quad \text{Less: Returns Outwards} & (2,500) & 111,700 & \\
-\quad \text{Add: Carriage Inwards} & & 1,800 & \\ \hline
-\quad \text{Cost of Goods Available for Sale} & & 127,500 & \\
-\quad \text{Less: Closing Inventory (31 Dec 20X9)} & & (16,500) & (111,000) \\ \hline
-\textbf{GROSS PROFIT} & & & \mathbf{96,000} \\ \hline
-\text{Less: Operating Expenses} & & & \\
-\quad \text{Carriage Outwards} & 2,400 & & \\
-\quad \text{Rent \& Rates} & 8,500 & & \\
-\quad \text{Salaries \& Wages} & 24,000 & & (34,900) \\ \hline
-\textbf{NET PROFIT FOR THE YEAR} & & & \mathbf{61,100} \\ \hline\hline
-\end{array}$$
+|  | \boldsymbol{$} | \boldsymbol{$} | \boldsymbol{$} |  |
+| --- | --- | --- | --- | --- |
+| Sales Revenue |  |  | 210,000 |  |
+| Less: Returns Inwards |  |  | (3,000) |  |
+| **Net Sales Revenue** |  |  | **207,000** |  |
+| Less: Cost of Goods Sold |  |  |  |  |
+| Opening Inventory (1 Jan 20X9) |  | 14,000 |  |  |
+| Purchases | 115,000 |  |  |  |
+| Less: Goods for Own Use | (800) |  |  |  |
+| Less: Returns Outwards | (2,500) | 111,700 |  |  |
+| Add: Carriage Inwards |  | 1,800 |  |  |
+| Cost of Goods Available for Sale |  | 127,500 |  |  |
+| Less: Closing Inventory (31 Dec 20X9) |  | (16,500) | (111,000) |  |
+| **GROSS PROFIT** |  |  | **96,000** |  |
+| Less: Operating Expenses |  |  |  |  |
+| Carriage Outwards | 2,400 |  |  |  |
+| \text{Rent \ | Rates} | 8,500 |  |  |
+| \text{Salaries \ | Wages} | 24,000 |  | (34,900) |
+| **NET PROFIT FOR THE YEAR** |  |  | **61,100** |  |
 
 ---
 
 ### T. Trader — Statement of Financial Position as at 31 December 20X9
 
-$$\begin{array}{l|rr|r}
-\hline
-& \boldsymbol{\$} & \boldsymbol{\$} & \boldsymbol{\$} \\ \hline
-\textbf{Non-Current Assets} & & & \\
-\text{Fixtures \& Fittings} & & & \mathbf{18,000} \\
-\textbf{Current Assets} & & & \\
-\text{Inventory (31 Dec 20X9)} & 16,500 & & \\
-\text{Trade Receivables} & 22,000 & & \\
-\text{Cash at Bank} & 9,500 & 48,000 & \\ \hline
-\text{Less: Current Liabilities} & & & \\
-\quad \text{Trade Payables} & & (16,000) & \\ \hline
-\textbf{Net Current Assets (Working Capital)} & & & \mathbf{32,000} \\ \hline
-\textbf{NET ASSETS} & & & \mathbf{50,000} \\ \hline\hline
-\textbf{CAPITAL} & & & \\
-\text{Opening Capital (1 Jan 20X9)} & & 15,700 & \\
-\text{Add: Net Profit for the year} & & 61,100 & \\ \hline
-& & 76,800 & \\
-\text{Less: Cash Drawings} & (6,000) & & \\
-\text{Less: Goods Taken for Own Use} & (800) & (6,800) & \\ \hline
-\textbf{TOTAL CAPITAL} & & & \mathbf{50,000} \\ \hline\hline
-\end{array}$$
+|  | \boldsymbol{$} | \boldsymbol{$} | \boldsymbol{$} |  |
+| --- | --- | --- | --- | --- |
+| **Non-Current Assets** |  |  |  |  |
+| \text{Fixtures \ | Fittings} |  |  | **18,000** |
+| **Current Assets** |  |  |  |  |
+| Inventory (31 Dec 20X9) | 16,500 |  |  |  |
+| Trade Receivables | 22,000 |  |  |  |
+| Cash at Bank | 9,500 | 48,000 |  |  |
+| Less: Current Liabilities |  |  |  |  |
+| Trade Payables |  | (16,000) |  |  |
+| **Net Current Assets (Working Capital)** |  |  | **32,000** |  |
+| **NET ASSETS** |  |  | **50,000** |  |
+| **CAPITAL** |  |  |  |  |
+| Opening Capital (1 Jan 20X9) |  | 15,700 |  |  |
+| Add: Net Profit for the year |  | 61,100 |  |  |
+|  |  | 76,800 |  |  |
+| Less: Cash Drawings | (6,000) |  |  |  |
+| Less: Goods Taken for Own Use | (800) | (6,800) |  |  |
+| **TOTAL CAPITAL** |  |  | **50,000** |  |
 
 ---
 

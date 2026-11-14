@@ -28,22 +28,19 @@ $$\text{Assets} = \text{Capital} + (\text{Revenues} - \text{Expenses}) - \text{D
 
 ## 4.3 Double-Entry Rules for Nominal Accounts (Expenses & Revenues)
 
-$$\begin{array}{|l|c|c|}
-\hline
-\textbf{Account Type} & \textbf{To Record an INCREASE (+)} & \textbf{To Record a DECREASE (-)} \\ \hline
-\textbf{Expense Accounts} & \text{DEBIT (Dr)} & \text{CREDIT (Cr)} \\ \hline
-\textbf{Revenue Accounts} & \text{CREDIT (Cr)} & \text{DEBIT (Dr)} \\ \hline
-\textbf{Drawings Account} & \text{DEBIT (Dr)} & \text{CREDIT (Cr)} \\ \hline
-\end{array}$$
+| **Account Type** | **To Record an INCREASE (+)** | **To Record a DECREASE (-)** |
+| --- | --- | --- |
+| **Expense Accounts** | DEBIT (Dr) | CREDIT (Cr) |
+| **Revenue Accounts** | CREDIT (Cr) | DEBIT (Dr) |
+| **Drawings Account** | DEBIT (Dr) | CREDIT (Cr) |
 
 ### Summary Classification Matrix (7 Element Rules)
 
-$$\begin{array}{c|c}
-\textbf{DEBIT (Dr) Increases} & \textbf{CREDIT (Cr) Increases} \\ \hline
-\text{Assets} & \text{Liabilities} \\
-\text{Expenses} & \text{Revenues / Income} \\
-\text{Drawings / Losses} & \text{Capital / Profits}
-\end{array}$$
+| **DEBIT (Dr) Increases** | **CREDIT (Cr) Increases** |
+| --- | --- |
+| Assets | Liabilities |
+| Expenses | Revenues / Income |
+| Drawings / Losses | Capital / Profits |
 
 ---
 
@@ -73,37 +70,31 @@ When the owner takes cash or goods from the business for personal use:
 
 ### T-Account Ledger Postings
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Bank Account}} \\ \hline
-\text{Aug 1} & \text{Capital} & \$31,000 & \text{Aug 4} & \text{Rent} & \$1,200 \\
-& & & \text{Aug 10} & \text{Rates} & \$450
-\end{array}$$
+| \multicolumn{6}{c}{**Bank Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Aug 1 | Capital | $31,000 | Aug 4 | Rent | $1,200 |
+|  |  |  | Aug 10 | Rates | $450 |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Cash Account}} \\ \hline
-\text{Aug 1} & \text{Capital} & \$4,000 & \text{Aug 20} & \text{Wages} & \$800 \\
-\text{Aug 15} & \text{Commission} & \$300 & \text{Aug 28} & \text{Drawings} & \$350
-\end{array}$$
+| \multicolumn{6}{c}{**Cash Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Aug 1 | Capital | $4,000 | Aug 20 | Wages | $800 |
+| Aug 15 | Commission | $300 | Aug 28 | Drawings | $350 |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Rent Account}} \\ \hline
-\text{Aug 4} & \text{Bank} & \$1,200 & & &
-\end{array}$$
+| \multicolumn{6}{c}{**Rent Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Aug 4 | Bank | $1,200 |  |  |  |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Commission Received Account}} \\ \hline
-& & & \text{Aug 15} & \text{Cash} & \$300
-\end{array}$$
+| \multicolumn{6}{c}{**Commission Received Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | Aug 15 | Cash | $300 |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Wages Account}} \\ \hline
-\text{Aug 20} & \text{Cash} & \$800 & & &
-\end{array}$$
+| \multicolumn{6}{c}{**Wages Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Aug 20 | Cash | $800 |  |  |  |
 
-$$\begin{array}{rll|lrr}
-\multicolumn{6}{c}{\textbf{Drawings Account}} \\ \hline
-\text{Aug 28} & \text{Cash} & \$350 & & &
-\end{array}$$
+| \multicolumn{6}{c}{**Drawings Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Aug 28 | Cash | $350 |  |  |  |
 
 ---
 

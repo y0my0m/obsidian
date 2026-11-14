@@ -53,14 +53,13 @@ Consider a Cash account at May 31:
 
 ### Balanced T-Account
 
-$$\begin{array}{rll|rll}
-\multicolumn{6}{c}{\textbf{Cash Account}} \\ \hline
-\text{May 1} & \text{Capital} & \$500 & \text{May 3} & \text{Purchases} & \$100 \\
-\text{May 10} & \text{Sales} & \$210 & \text{May 22} & \text{D. Small} & \$200 \\
-\text{May 21} & \text{Sales} & \$170 & \text{May 31} & \textbf{Balance c/d} & \mathbf{\$580} \\ \hline
-& & \mathbf{\$880} & & & \mathbf{\$880} \\ \hline\hline
-\text{June 1} & \textbf{Balance b/d} & \mathbf{\$580} & & &
-\end{array}$$
+| \multicolumn{6}{c}{**Cash Account**} |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| May 1 | Capital | $500 | May 3 | Purchases | $100 |
+| May 10 | Sales | $210 | May 22 | D. Small | $200 |
+| May 21 | Sales | $170 | May 31 | **Balance c/d** | **$580** |
+|  |  | **$880** |  |  | **$880** |
+| June 1 | **Balance b/d** | **$580** |  |  |  |
 
 ---
 
